@@ -42,28 +42,17 @@ The dashboard is fully interactive
 - There's been a huge increase in releases from 2017 onwards
 - "TV-MA" and "TV-14" are the most frequent ratings
 
----
+---- 
+
+Dataset Source
+
+The data comes from [this Netflix dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+---- 
 
 - Dashboard Preview
 
 ![Netflix Dashboard](https://github.com/AmirElsayed117/Netflix-Dashboard/blob/main/NetFlix_Overview.png)
 
----
 
-- Dataset Source
 
-The data comes from [this Netflix dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
----
-
-- About Me
-
-I'm **Amir El Sayed**, a data enthusiast who loves turning messy data into clear insights.  
-If you're into dashboards, storytelling with data, or just love Netflix — we might get along 😄
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amiralsayed)  
-- 📧 [amirelsayed159@gmail.com](mailto:amirelsayed159@gmail.com)
-
----
-
-> Thanks for checking out my project! Feel free to explore, use, or reach out 🚀
