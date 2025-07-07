@@ -46,7 +46,7 @@ The dashboard is fully interactive
 
 - Dashboard Preview
 
-![Netflix Dashboard](screenshots/dashboard-preview.png)
+![Netflix Dashboard](https://github.com/AmirElsayed117/Netflix-Dashboard/blob/main/NetFlix_Overview.png)
 
 ---
 
