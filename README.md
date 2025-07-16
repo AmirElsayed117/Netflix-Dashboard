@@ -40,7 +40,7 @@ The dashboard is fully interactive
 - *Drama* is the most common genre on Netflix
 - 🇺🇸 The USA and 🇮🇳 India lead in content production
 - There's been a huge increase in releases from 2017 onwards
-- "TV-MA" and "TV-14" are the most frequent ratings
+- "Adult" and "Teens(+14)" are the most frequent ratings
 
 ---- 
 
